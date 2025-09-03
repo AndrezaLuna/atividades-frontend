@@ -1,0 +1,12 @@
+body{
+    background-color: #f1f1138f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 200px;
+    border-radius: 30px;
+}
+#titulo{
+    text-align: center;
+    font-size: 30px;
+}
