@@ -1,0 +1,22 @@
+ul{ 
+
+    list-style: none; /*none retira o ponto das listas*/
+    display: flex;
+    justify-content: center; /* aqui esta alinhando os itens do container no centro*/
+
+    
+}
+a{
+    display: block; /*faz o link ocupar toda a área */
+    text-decoration: none; /*remove a linha abaixo do link*/  
+    background-color: rgb(219, 206, 34);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+a:hover{
+    background-color: blue;
+    color: white;
+}
+
