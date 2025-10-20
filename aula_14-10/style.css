@@ -1,0 +1,38 @@
+body{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center
+}
+section{
+  height: 14rem; 
+  width: 28rem; /*450px*/
+  background-color: #b5b8da;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+ 
+}
+#input-entrada input {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  width: 25rem;
+  height: 2rem;
+  text-align: center; 
+  border: none;
+  border-radius: 15px;
+}
+#botao-1{
+  margin-top: 1rem;
+  background-color: #7d56d3;
+  padding: 0.6rem;
+  border-radius: 5px;
+  width: 9.3rem; /*150px*/
+  font-weight: bold;
+  font-size: 1rem;
+  color:#ffff;
+  border: none;
+  
+}
