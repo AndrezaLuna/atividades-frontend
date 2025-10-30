@@ -1,0 +1,15 @@
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: white;
+  background-color: rgba(70, 70, 70, 0.837);
+  font-family: Arial, Helvetica, sans-serif;
+}
+#logo{
+  width: 200px;
+  height: auto;
+  padding-bottom: 1rem;
+}
+
